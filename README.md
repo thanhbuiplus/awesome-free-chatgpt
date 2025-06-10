@@ -3487,6 +3487,19 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
             <td>2023-09-23</td>
             <td></td>
         </tr>
+       <tr>
+            <td>313</td>
+            <td> <a href="https://gptde.de/" target="_blank">https://gptde.de/</a>
+                <br> </td>
+            <td>
+                        🔒
+                        💰
+                        💪
+                        🧰
+            </td>
+            <td>2025-10-06</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 <!-- normal-end -->
